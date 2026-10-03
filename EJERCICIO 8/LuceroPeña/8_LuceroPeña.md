@@ -62,7 +62,7 @@ Al aplicar `ALTER TABLE`, las nuevas columnas se agregaron aceptando valores nul
 
 
 ## Evidencias de Ejecución 
-### 1. Creación de la dimensión y modificación del esquema ![Creación de dim_tarifa_agua y modificación de fact_consumo_agua](img/1.CreacionTablas.jpeg) 
-### 2. Inserción de la estructura tarifaria ![Inserción de datos en dim_tarifa_agua](img/2.InsercionRegistros.jpeg) 
-### 3. Actualización de datos históricos en la tabla de hechos ![Imputación de tarifas y montos en fact_consumo_agua](img/3.ActualizacionMasiva.jpeg) 
-### 4. Resultado de la consulta analítica ![Resultado de la consulta agrupada por tarifa](img/4.ConsultaAnalitica.jpeg)
+### 1. Creación de la dimensión y modificación del esquema ![Creación de dim_tarifa_agua y modificación de fact_consumo_agua](../img/1.CreacionTablas.jpeg) 
+### 2. Inserción de la estructura tarifaria ![Inserción de datos en dim_tarifa_agua](../img/2.InsercionRegistros.jpeg) 
+### 3. Actualización de datos históricos en la tabla de hechos ![Imputación de tarifas y montos en fact_consumo_agua](../img/3.ActualizacionMasiva.jpeg) 
+### 4. Resultado de la consulta analítica ![Resultado de la consulta agrupada por tarifa](../img/4.ConsultaAnalitica.jpeg)
